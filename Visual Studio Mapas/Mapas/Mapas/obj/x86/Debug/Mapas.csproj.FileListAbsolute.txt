@@ -1,0 +1,31 @@
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\bin\Debug\Mapas.exe
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\bin\Debug\Mapas.pdb
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\MainWindow.baml
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\MainWindow.g.cs
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\App.g.cs
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas_MarkupCompile.cache
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.g.resources
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.Properties.Resources.resources
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.csproj.GenerateResource.Cache
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.exe
+c:\users\juan pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.pdb
+C:\Users\Juan Pablo\documents\visual studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.csprojResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\Visual Studio 2010\Projects\Mapas\Mapas\obj\x86\Debug\Mapas.FrmInicio.resources
+C:\Users\esteban\Downloads\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.exe
+C:\Users\esteban\Downloads\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.pdb
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.exe
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.pdb
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\bin\Debug\Mapas.exe
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\bin\Debug\Mapas.pdb
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.csprojResolveAssemblyReference.cache
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\MainWindow.baml
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\App.g.cs
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas_MarkupCompile.cache
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.g.resources
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.FrmInicio.resources
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.Properties.Resources.resources
+C:\Users\esteban\Documents\Visual Studio Mapas\Mapas\Mapas\obj\x86\Debug\Mapas.csproj.GenerateResource.Cache

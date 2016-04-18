@@ -1,0 +1,7 @@
+(LOAD 'cone.txt)
+(LOAD 'recta.txt)
+(LOAD 'AE.txt)
+(AESTRELLA CULIACAN HERMOSILLO 200)
+(OPEN-OUTPUT-FILE 'ciudades.txt' OVERWRITE)
+(WRITE SALIDA 'ciudades.txt)
+(CLOSE-OUTPUT-FILE 'ciudades.txt)

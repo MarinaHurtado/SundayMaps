@@ -1,0 +1,10 @@
+﻿<Window x:Class="Mapas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="MainWindow" Height="750" Width="1525" WindowState="Maximized">
+    <Grid>
+        <m:Map CredentialsProvider="AiYNc0ATbItzBvPwXn85YjHbIlUJ__Jvcc7B5DaH972z58Gx_yVBhRaLKuBqEvG5" Mode="AerialWithLabels" 
+               Center="22.90,	-102.133208" ZoomLevel="5.4" x:Name="myMap"/>
+    </Grid>
+</Window>
